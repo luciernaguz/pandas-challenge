@@ -1,9 +1,10 @@
 ## pandas-challenge
+
 _Pandas Challenge Bootcamp_
 ----------------------------------------------------------------------------------
 The Goal: This reposity is to put in practice Pandas Librarys and also Jupyter Notebook
 ----------------------------------------------------------------------------------
-URL to check correctly the results in the Notebook (GitHub doesn´t render some things)
+URL to view correctly the results in the Notebook (GitHub doesn´t render some things)
 https://nbviewer.jupyter.org/github/luciernaguz/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
 ------------------------------------------------------------------------------------
 This repository is for putting Pandas Librarys and some Jupyter Notebook skills to use.
