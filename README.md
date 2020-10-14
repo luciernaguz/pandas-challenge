@@ -4,6 +4,11 @@ _Pandas Challenge Bootcamp_
 ----------------------------------------------------------------------------------
 The Goal: This reposity is to put in practice Pandas Librarys and also Jupyter Notebook
 ----------------------------------------------------------------------------------
+URL nbviewer to check correctly the Notebook (GitHub doesn´t render some things)
+
+https://nbviewer.jupyter.org/github/luciernaguz/pandas-challenge/blob/main/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb
+
+------------------------------------------------------------------------------------
 This repository is for putting Pandas Librarys and some Jupyter Notebook skills to use.
 For this challenge select to solve the option about games "HeroesOfPymoli".
 Perform the normal operations on the dataframe to obtain the corresponding groupings to solve.
