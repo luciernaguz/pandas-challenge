@@ -15,3 +15,5 @@ Basically most of the solutions were solved making use of groupby identifying th
 The solution consists of taking the source file with a csv extension from the Resources folder, loading this file and manipulating it with the grouped files, and placing it in the different DataFrames for each question they request to be solved.
 
 To see the result, the most convenient thing is to take all the contents of the folder, so that the input information is taken, let's say the solution is to open the notebook in Jupyter Notebook and run it, the solutions will be shown.
+
+This challenge was complete done. Feel free to make any comments and observations. Thanks.
