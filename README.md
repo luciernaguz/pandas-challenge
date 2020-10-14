@@ -2,7 +2,7 @@
 
 _Pandas Challenge Bootcamp_
 ----------------------------------------------------------------------------------
-This reposity is to put in practice Pandas Librarys and also Jupyter Notebook
+The Goal: This reposity is to put in practice Pandas Librarys and also Jupyter Notebook
 ----------------------------------------------------------------------------------
 This repository is for putting Pandas Librarys and some Jupyter Notebook skills to use.
 For this challenge select to solve the option about games "HeroesOfPymoli".
